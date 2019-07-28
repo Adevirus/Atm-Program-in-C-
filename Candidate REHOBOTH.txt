@@ -1,0 +1,19 @@
+----------------------------------------------------------
+-----------------Candidate Info (Not Updated)-------------
+----------------------------------------------------------
+
+------------------->PERSONAL INFORMATION<-----------------
+Title: MR
+First Name: Rehoboth
+SurName/LastName: Micah-Daniels
+Other Name: Olaoluwa
+Telephone: 08026688226
+Address: No_2_ojokondo_street_UI_water_Ibadan
+Date of Birth: 12/12/1998
+
+----------------->ACCOUNT INFORMATION<------------------
+Account Name: Rehoboth
+Account Type: Fixed-Deposit
+Pin Number: 3005
+Account Number: 156812
+----------------------------------------------------------

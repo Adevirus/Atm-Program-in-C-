@@ -1,0 +1,19 @@
+----------------------------------------------------------
+-----------------Candidate Info (Not Updated)-------------
+----------------------------------------------------------
+
+------------------->PERSONAL INFORMATION<-----------------
+Title: Mr.
+First Name: Tomiwa
+SurName/LastName: Amole
+Other Name: JOSEPH
+Telephone: 09092354394
+Address: 2_DODONDAWA
+Date of Birth: AUGUST_6_1998
+
+----------------->ACCOUNT INFORMATION<------------------
+Account Name: TOMIWAMOLE
+Account Type: SAVINGS
+Pin Number: 912
+Account Number: 156812
+----------------------------------------------------------

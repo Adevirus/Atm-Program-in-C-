@@ -1,0 +1,19 @@
+----------------------------------------------------------
+-----------------Candidate Info (Not Updated)-------------
+----------------------------------------------------------
+
+------------------->PERSONAL INFORMATION<-----------------
+Title: Mr
+First Name: Franklyn
+SurName/LastName: Oke
+Other Name: dude
+Telephone: 9884920909302
+Address: jfhrhitjrtoirjtritr
+Date of Birth: 12/12/2004
+
+----------------->ACCOUNT INFORMATION<------------------
+Account Name: Dude
+Account Type: Current
+Pin Number: 1346
+Account Number: 156812
+----------------------------------------------------------

@@ -1,0 +1,19 @@
+----------------------------------------------------------
+-----------------Candidate Info (Not Updated)-------------
+----------------------------------------------------------
+
+------------------->PERSONAL INFORMATION<-----------------
+Title: Mr
+First Name: Babalola
+SurName/LastName: Alengege
+Other Name: Soku
+Telephone: 0903556172
+Address: soka
+Date of Birth: ajale
+
+----------------->ACCOUNT INFORMATION<------------------
+Account Name: AllenGege
+Account Type: Fixed-Deposit
+Pin Number: 7898
+Account Number: 156812
+----------------------------------------------------------
